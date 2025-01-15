@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shijie" alt="shijie" /></a> </p>
 
-- 🌱 I’m currently learning **QML**
+ 
 
-- 📫 How to reach me **banboom975@163.com**
+- 📫 How to reach me **banboom975@163.com  or  Wechat:Jchoom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
