@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
  
 
-- 📫 How to reach me **banboom975@163.com  or  Wechat:Jchoom**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:**banboom975@163.com  or  Wechat:Jchoom**</h3>
 <p align="left">
 </p>
 
