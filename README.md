@@ -8,8 +8,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chooshijie&show_icons=true&locale=en&layout=compact" alt="chooshijie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chooshijie&show_icons=true&locale=en" alt="chooshijie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chooshijie&" alt="chooshijie" /></p>
+ 
  
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
